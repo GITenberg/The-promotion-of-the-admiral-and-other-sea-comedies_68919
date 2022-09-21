@@ -1,0 +1,28 @@
+_repo: The-promotion-of-the-admiral-and-other-sea-comedies_68919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Morley
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '6241'
+    url: http://www.gutenberg.org/2009/agents/6241
+    wikipedia: https://en.wikipedia.org/wiki/Morley_Roberts
+description: ''
+gutenberg_issued: '2022-09-06'
+identifiers:
+  gutenberg: '68919'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3g8q&view=1up&seq=11&skin=2021
+pgterms:marc905: 20220830204842roberts
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :L. C. Page & Company,1902,copyright 1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The promotion of the admiral: and other sea comedies'
+url: http://www.gutenberg.org/ebooks/68919
